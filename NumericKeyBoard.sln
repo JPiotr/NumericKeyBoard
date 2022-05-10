@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumericKeyBoard", "NumericKeyBoard.csproj", "{5B95D6C9-3D48-4B89-BA7D-0E5732698AEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B95D6C9-3D48-4B89-BA7D-0E5732698AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B95D6C9-3D48-4B89-BA7D-0E5732698AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B95D6C9-3D48-4B89-BA7D-0E5732698AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B95D6C9-3D48-4B89-BA7D-0E5732698AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80ED2399-EA32-4A2B-AAF0-448ECE1AD050}
+	EndGlobalSection
+EndGlobal
